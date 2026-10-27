@@ -1,0 +1,10 @@
+.venv/
+.cache/
+data/
+generated/*
+!generated/r3_n20_l32768_d100/
+tokenizer/
+__pycache__/
+.DS_Store
+.env
+.env.*

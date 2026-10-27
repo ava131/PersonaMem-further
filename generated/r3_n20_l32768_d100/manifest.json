@@ -1,0 +1,608 @@
+{
+  "purpose": "cache_performance_only",
+  "schema_version": 1,
+  "source_repo": "bowen-upenn/PersonaMem-v3",
+  "source_download": {
+    "repo": "bowen-upenn/PersonaMem-v3",
+    "revision": "7b00a090b35b7293e6efeeb19494207f32b5a9ee",
+    "persona_ids": [
+      "38",
+      "37",
+      "9",
+      "107",
+      "655",
+      "49",
+      "10",
+      "70",
+      "114",
+      "77",
+      "73",
+      "108",
+      "55",
+      "56",
+      "72",
+      "44",
+      "461",
+      "90",
+      "76",
+      "32",
+      "23",
+      "14",
+      "26",
+      "96"
+    ],
+    "apps": [
+      "chatbot",
+      "ai_studio"
+    ],
+    "files": [
+      {
+        "file": "backend/38/chatbot.json",
+        "sha256": "2518f281e93bb464aefc91c2c637b0ef8b85776b31ba540a0c8545178f5b1ebe"
+      },
+      {
+        "file": "backend/38/ai_studio.json",
+        "sha256": "45eab4aa1f9e86a9709872d60de2c59f03b5b9ea09b8644076797680c49b0edf"
+      },
+      {
+        "file": "backend/37/chatbot.json",
+        "sha256": "9450cf850212e1d11f9b54c8fca2e7909c72e9d746f8019471b2f298aec65572"
+      },
+      {
+        "file": "backend/37/ai_studio.json",
+        "sha256": "8c33f4ca37053287695f7e1811159d1c31f2a61a36c62439dc070d6816ff456d"
+      },
+      {
+        "file": "backend/9/chatbot.json",
+        "sha256": "1cb04678bc0d3fa703433b01915045e1264fd041b41e195a8586a97a8ad1a31e"
+      },
+      {
+        "file": "backend/9/ai_studio.json",
+        "sha256": "07300f7732d3089290bae320a8c40cfe0f47cb2c49faff9934120b4c9d236360"
+      },
+      {
+        "file": "backend/107/chatbot.json",
+        "sha256": "5491fc8367214cdd0e5c17568372e802fd53c9cb758fdf7f8065766bf6dfd06b"
+      },
+      {
+        "file": "backend/107/ai_studio.json",
+        "sha256": "c8d49e50d02f08614d884f104de29d90eb044d802a50c2b67829a42f1c5aa2c0"
+      },
+      {
+        "file": "backend/655/chatbot.json",
+        "sha256": "028db4aa8b8e06d6a074676a8c8714491903139eb5aed7a1af89a1fee2fac004"
+      },
+      {
+        "file": "backend/655/ai_studio.json",
+        "sha256": "6146e38ff83d018d36d27bc8bd1bd025c4b82128491d585ac9edd29b74b23b93"
+      },
+      {
+        "file": "backend/49/chatbot.json",
+        "sha256": "2d3ce654a6356ffa9ce8eb0f56f848c5b79088ca4a26f38acbcfcbcea4d716a4"
+      },
+      {
+        "file": "backend/49/ai_studio.json",
+        "sha256": "7f3cfb0554ab5c4a792bb31d71653a7fc8c5cbbcbbb42f334696d104c0ecad11"
+      },
+      {
+        "file": "backend/10/chatbot.json",
+        "sha256": "e1e7a0b0ee6e3fe6743474958043fe81b72df59b3f0bdc79d9a919b2203cd8ad"
+      },
+      {
+        "file": "backend/10/ai_studio.json",
+        "sha256": "10fea6b90a40e77b11d28859c2385d84449829c0a46a44c21700bf75fdc20d3e"
+      },
+      {
+        "file": "backend/70/chatbot.json",
+        "sha256": "2957753db399e964284d1af9b80f8df7a5d6f341144865cb7f00de119f1f1be1"
+      },
+      {
+        "file": "backend/70/ai_studio.json",
+        "sha256": "efd592c8d72037879eafb7db59f91b339a15f9d8d154aa3b5f1a0cd65fd88538"
+      },
+      {
+        "file": "backend/114/chatbot.json",
+        "sha256": "f6824f9dba92c06799bd53634216ca9a00abc458321aa7ef33f5da2b64b987a5"
+      },
+      {
+        "file": "backend/114/ai_studio.json",
+        "sha256": "d2e3d83e7b1dc6ba9f822e4c31ede06350eb7d9d1775c15fb8718bb5e5c25fee"
+      },
+      {
+        "file": "backend/77/chatbot.json",
+        "sha256": "93c7c28bcc51515085acfa6bcf9584262cfa8e057e03b5e198105a2c921d8eea"
+      },
+      {
+        "file": "backend/77/ai_studio.json",
+        "sha256": "26fa05581d97d7c0e46e751379b1e429c32d5e33192745204529dae29fafd3dc"
+      },
+      {
+        "file": "backend/73/chatbot.json",
+        "sha256": "ca4d03e7e6d33328b5ce22cb96c751f5263536d01001f258dd8ae44cd4028cb7"
+      },
+      {
+        "file": "backend/73/ai_studio.json",
+        "sha256": "57cf4eec3de1f28b8074a879a61f6b0f5d2914805d74b3026324df94e19b944b"
+      },
+      {
+        "file": "backend/108/chatbot.json",
+        "sha256": "105c06737f4e5fd33185b8e74064160d8670a8bb533e7501164fe585361d12d3"
+      },
+      {
+        "file": "backend/108/ai_studio.json",
+        "sha256": "14e26c7657999fe128ea43a12c2592afb2cc8b1641e57d14f5571b19c7f32a43"
+      },
+      {
+        "file": "backend/55/chatbot.json",
+        "sha256": "8109d291d0d93332451d449078f53bf78b142b8e6b732783b67b82e6ed6916a7"
+      },
+      {
+        "file": "backend/55/ai_studio.json",
+        "sha256": "9f81e4835a21ebb994e46de487858804b07f097319b61ce2be3cf421d5c75390"
+      },
+      {
+        "file": "backend/56/chatbot.json",
+        "sha256": "d0d35628cc7ca921cfa9b472b67fd661c62bc05d8f4f28c3951e5b2453760524"
+      },
+      {
+        "file": "backend/56/ai_studio.json",
+        "sha256": "4d839dd8673a056fd944d28cf195848885c73142e2850d42074fdf963eaceefe"
+      },
+      {
+        "file": "backend/72/chatbot.json",
+        "sha256": "ebd126af95ae56dc83c53d8e532b342acb5c935820c1a8262fa8fcd71ed53da1"
+      },
+      {
+        "file": "backend/72/ai_studio.json",
+        "sha256": "60b9e34bf4bc019196a53492371dbb39041b22e83a3ba1c9c88221eda8a1c527"
+      },
+      {
+        "file": "backend/44/chatbot.json",
+        "sha256": "74c35a6388efe3a76c01776f55418544ca170a4e8355b0bff76da91e10f0c38f"
+      },
+      {
+        "file": "backend/44/ai_studio.json",
+        "sha256": "1a5396f924da0b4e1070e4f02b1a1669641e5913668eeda89c051b84cf2751d4"
+      },
+      {
+        "file": "backend/461/chatbot.json",
+        "sha256": "46d7b06cebe2dc278a8b62bf9347ab1266c473d04c650521382ce0e7503dd0b6"
+      },
+      {
+        "file": "backend/461/ai_studio.json",
+        "sha256": "c8226d29d20aa08c38066690e7d4bfaece30c718f2661fabf070294dc8630bc5"
+      },
+      {
+        "file": "backend/90/chatbot.json",
+        "sha256": "d32d2bc79a94d8c3959a826503c8ac0b725849d8d124fde87e09382bd45282c1"
+      },
+      {
+        "file": "backend/90/ai_studio.json",
+        "sha256": "c96cd5b43e31c4efe8ecbba74d0a484f6cad0decab797a255727d193c5a9b9a8"
+      },
+      {
+        "file": "backend/76/chatbot.json",
+        "sha256": "d8bb65159a460a4a94f2c5abdf186598de724b1a57bb439ed24022b9594fbcaf"
+      },
+      {
+        "file": "backend/76/ai_studio.json",
+        "sha256": "919cb822fefbe5396a5571b8ee682009299a88ee03190b9f580ac2b444881d11"
+      },
+      {
+        "file": "backend/32/chatbot.json",
+        "sha256": "aaf31b65ead9f6d8589c4e2a5e2caeb1a512cfe06f982bbece6d135a8f41185b"
+      },
+      {
+        "file": "backend/32/ai_studio.json",
+        "sha256": "7728703ed2c74a7744919bc53c1cbaa727a81e5e2dc2aa68f45f607063ace638"
+      },
+      {
+        "file": "backend/23/chatbot.json",
+        "sha256": "69d59acae4d08fcdbdc657b98254c61d42c7c59af293366be02b7783a95364c1"
+      },
+      {
+        "file": "backend/23/ai_studio.json",
+        "sha256": "0592b46f7f375bfe10a16a1f79e8e1f139f9f7b54f4df533254590e6869c290c"
+      },
+      {
+        "file": "backend/14/chatbot.json",
+        "sha256": "cd52178ac0d5d24fc8cb9c1cf7b3941ea09b4080771dfa73306415b34296714e"
+      },
+      {
+        "file": "backend/14/ai_studio.json",
+        "sha256": "f6a191eb4f40909765b1445510ea26954b89ee317744c28eaa1b7c0f56f14d0f"
+      },
+      {
+        "file": "backend/26/chatbot.json",
+        "sha256": "14e9647fca9565babe9da49bb1559e0f1939098dfa7a14e14b934634e55c6276"
+      },
+      {
+        "file": "backend/26/ai_studio.json",
+        "sha256": "f20ad128b20252c1cb429cf4e66c08100631e342bc221af0b704ebb3333df647"
+      },
+      {
+        "file": "backend/96/chatbot.json",
+        "sha256": "ee07c4e37bae9895c4d91d940de5eadd53cfb772cd75bf54c5b05229b29b01cc"
+      },
+      {
+        "file": "backend/96/ai_studio.json",
+        "sha256": "0680ddb5ba330f17c8f322cb495b6e5e5fd74b37d28250949510825e14b1a9e9"
+      }
+    ]
+  },
+  "tokenizer": "./tokenizer",
+  "tokenizer_revision_requested": null,
+  "tokenizer_resolved_commit": null,
+  "tokenizer_fingerprint_sha256": "a63080b4b30dc861fe1b0e420c53a241304dc81aff3d9bb315e6e33e2a1ab794",
+  "rounds": 3,
+  "requests_per_round": 20,
+  "initial_tokens": 32768,
+  "increment_tokens": 100,
+  "tokens_per_round": [
+    32768,
+    32868,
+    32968
+  ],
+  "total_requests": 60,
+  "order": "round-major, session-minor",
+  "other_requests_between_turns": 19,
+  "formats": [
+    "longbenchv2",
+    "gsm8k"
+  ],
+  "seed": 42,
+  "apps": [
+    "chatbot",
+    "ai_studio"
+  ],
+  "length_scope": "context in longbenchv2; question in gsm8k; add_special_tokens=False",
+  "labels": "empty placeholders; NOT valid original benchmark accuracy tasks",
+  "block_size": 16,
+  "max_allowed_first_prefix_tokens": 8,
+  "max_observed_first_prefix_tokens": 3,
+  "first_round_shared_full_prefix_blocks": 0,
+  "serving_template_verified": false,
+  "sources": [
+    {
+      "persona": "655",
+      "offset": 0,
+      "source_tokens": 99092,
+      "event_count": 133,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/655/chatbot.json",
+          "sha256": "028db4aa8b8e06d6a074676a8c8714491903139eb5aed7a1af89a1fee2fac004"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/655/ai_studio.json",
+          "sha256": "6146e38ff83d018d36d27bc8bd1bd025c4b82128491d585ac9edd29b74b23b93"
+        }
+      ],
+      "text_sha256": "d375ec21ca45ad6f70fb656ea3b86724e2b6472ae1d7bdee01bbe194a87835c1"
+    },
+    {
+      "persona": "23",
+      "offset": 0,
+      "source_tokens": 114222,
+      "event_count": 153,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/23/chatbot.json",
+          "sha256": "69d59acae4d08fcdbdc657b98254c61d42c7c59af293366be02b7783a95364c1"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/23/ai_studio.json",
+          "sha256": "0592b46f7f375bfe10a16a1f79e8e1f139f9f7b54f4df533254590e6869c290c"
+        }
+      ],
+      "text_sha256": "7493c264dedeb04c3858f63b209befc6e5265124adc71766e97d22094e5d58c9"
+    },
+    {
+      "persona": "73",
+      "offset": 0,
+      "source_tokens": 290558,
+      "event_count": 411,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/73/chatbot.json",
+          "sha256": "ca4d03e7e6d33328b5ce22cb96c751f5263536d01001f258dd8ae44cd4028cb7"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/73/ai_studio.json",
+          "sha256": "57cf4eec3de1f28b8074a879a61f6b0f5d2914805d74b3026324df94e19b944b"
+        }
+      ],
+      "text_sha256": "5a460166e2a1b03f9eb43370beca88c80ded878aa7df688b2bc3c3dfa475117d"
+    },
+    {
+      "persona": "96",
+      "offset": 0,
+      "source_tokens": 66920,
+      "event_count": 69,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/96/chatbot.json",
+          "sha256": "ee07c4e37bae9895c4d91d940de5eadd53cfb772cd75bf54c5b05229b29b01cc"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/96/ai_studio.json",
+          "sha256": "0680ddb5ba330f17c8f322cb495b6e5e5fd74b37d28250949510825e14b1a9e9"
+        }
+      ],
+      "text_sha256": "8b5c0e96e2c782100a992bb7b0b222766670641704c13c084c11fc909308f8aa"
+    },
+    {
+      "persona": "55",
+      "offset": 0,
+      "source_tokens": 92982,
+      "event_count": 113,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/55/chatbot.json",
+          "sha256": "8109d291d0d93332451d449078f53bf78b142b8e6b732783b67b82e6ed6916a7"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/55/ai_studio.json",
+          "sha256": "9f81e4835a21ebb994e46de487858804b07f097319b61ce2be3cf421d5c75390"
+        }
+      ],
+      "text_sha256": "a463b46b0ced6a5d7502588d2db0e08c428913227e947525a2899bb534767035"
+    },
+    {
+      "persona": "44",
+      "offset": 0,
+      "source_tokens": 137884,
+      "event_count": 174,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/44/chatbot.json",
+          "sha256": "74c35a6388efe3a76c01776f55418544ca170a4e8355b0bff76da91e10f0c38f"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/44/ai_studio.json",
+          "sha256": "1a5396f924da0b4e1070e4f02b1a1669641e5913668eeda89c051b84cf2751d4"
+        }
+      ],
+      "text_sha256": "b9474ce770c8fc5aeeb4749367b624d115b743e6918e179f7f361f91c0697d49"
+    },
+    {
+      "persona": "72",
+      "offset": 0,
+      "source_tokens": 101635,
+      "event_count": 94,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/72/chatbot.json",
+          "sha256": "ebd126af95ae56dc83c53d8e532b342acb5c935820c1a8262fa8fcd71ed53da1"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/72/ai_studio.json",
+          "sha256": "60b9e34bf4bc019196a53492371dbb39041b22e83a3ba1c9c88221eda8a1c527"
+        }
+      ],
+      "text_sha256": "68a5f41aa57f524e0c267f387d6d93188cdb5523f9a7f70a175c7dab20a39c11"
+    },
+    {
+      "persona": "461",
+      "offset": 0,
+      "source_tokens": 182971,
+      "event_count": 220,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/461/chatbot.json",
+          "sha256": "46d7b06cebe2dc278a8b62bf9347ab1266c473d04c650521382ce0e7503dd0b6"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/461/ai_studio.json",
+          "sha256": "c8226d29d20aa08c38066690e7d4bfaece30c718f2661fabf070294dc8630bc5"
+        }
+      ],
+      "text_sha256": "6054b0464e5b2b5a7c43859e5bb9851d6593430668ba4d3d6608a02805399161"
+    },
+    {
+      "persona": "56",
+      "offset": 0,
+      "source_tokens": 122750,
+      "event_count": 153,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/56/chatbot.json",
+          "sha256": "d0d35628cc7ca921cfa9b472b67fd661c62bc05d8f4f28c3951e5b2453760524"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/56/ai_studio.json",
+          "sha256": "4d839dd8673a056fd944d28cf195848885c73142e2850d42074fdf963eaceefe"
+        }
+      ],
+      "text_sha256": "15b0f1918d1d7d72554ffe5dc19e192cbb34c57cd3dd55eef992781e20857bb9"
+    },
+    {
+      "persona": "70",
+      "offset": 0,
+      "source_tokens": 224955,
+      "event_count": 309,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/70/chatbot.json",
+          "sha256": "2957753db399e964284d1af9b80f8df7a5d6f341144865cb7f00de119f1f1be1"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/70/ai_studio.json",
+          "sha256": "efd592c8d72037879eafb7db59f91b339a15f9d8d154aa3b5f1a0cd65fd88538"
+        }
+      ],
+      "text_sha256": "ca2eea8a7ef8c2ea28fe6c60e5eb17be05a410fbb5f44d15e805f00521385137"
+    },
+    {
+      "persona": "107",
+      "offset": 0,
+      "source_tokens": 131861,
+      "event_count": 147,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/107/chatbot.json",
+          "sha256": "5491fc8367214cdd0e5c17568372e802fd53c9cb758fdf7f8065766bf6dfd06b"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/107/ai_studio.json",
+          "sha256": "c8d49e50d02f08614d884f104de29d90eb044d802a50c2b67829a42f1c5aa2c0"
+        }
+      ],
+      "text_sha256": "37e6d031d2d9319287d0a97b2e9d5bf37323e6018143f6ad82b70b1ea762bdf1"
+    },
+    {
+      "persona": "49",
+      "offset": 0,
+      "source_tokens": 161148,
+      "event_count": 217,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/49/chatbot.json",
+          "sha256": "2d3ce654a6356ffa9ce8eb0f56f848c5b79088ca4a26f38acbcfcbcea4d716a4"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/49/ai_studio.json",
+          "sha256": "7f3cfb0554ab5c4a792bb31d71653a7fc8c5cbbcbbb42f334696d104c0ecad11"
+        }
+      ],
+      "text_sha256": "f5c4c7a9b0b50fadb7df9060995fcd2e48fb13372681d78e1ffa97d089be3b25"
+    },
+    {
+      "persona": "9",
+      "offset": 0,
+      "source_tokens": 124512,
+      "event_count": 169,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/9/chatbot.json",
+          "sha256": "1cb04678bc0d3fa703433b01915045e1264fd041b41e195a8586a97a8ad1a31e"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/9/ai_studio.json",
+          "sha256": "07300f7732d3089290bae320a8c40cfe0f47cb2c49faff9934120b4c9d236360"
+        }
+      ],
+      "text_sha256": "d109dfb0ee72a908a851dff9e413ef77d952421c3e482e1784831fd12a31c0d7"
+    },
+    {
+      "persona": "26",
+      "offset": 0,
+      "source_tokens": 68153,
+      "event_count": 88,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/26/chatbot.json",
+          "sha256": "14e9647fca9565babe9da49bb1559e0f1939098dfa7a14e14b934634e55c6276"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/26/ai_studio.json",
+          "sha256": "f20ad128b20252c1cb429cf4e66c08100631e342bc221af0b704ebb3333df647"
+        }
+      ],
+      "text_sha256": "5e99dc2dcbc3efe992e59702bee9a9b99bc0cc3aa9bb25f8fcb236e45774e3bd"
+    },
+    {
+      "persona": "38",
+      "offset": 0,
+      "source_tokens": 94631,
+      "event_count": 126,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/38/chatbot.json",
+          "sha256": "2518f281e93bb464aefc91c2c637b0ef8b85776b31ba540a0c8545178f5b1ebe"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/38/ai_studio.json",
+          "sha256": "45eab4aa1f9e86a9709872d60de2c59f03b5b9ea09b8644076797680c49b0edf"
+        }
+      ],
+      "text_sha256": "e9566aa17da06283148799820e8289ffc1096117ebc83155f59197b28a064d4b"
+    },
+    {
+      "persona": "108",
+      "offset": 0,
+      "source_tokens": 52878,
+      "event_count": 84,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/108/chatbot.json",
+          "sha256": "105c06737f4e5fd33185b8e74064160d8670a8bb533e7501164fe585361d12d3"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/108/ai_studio.json",
+          "sha256": "14e26c7657999fe128ea43a12c2592afb2cc8b1641e57d14f5571b19c7f32a43"
+        }
+      ],
+      "text_sha256": "bc8d62c1dd3443741847d36d274405f2738b4a7bddc41ac6416a3c538e42a441"
+    },
+    {
+      "persona": "90",
+      "offset": 0,
+      "source_tokens": 49229,
+      "event_count": 64,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/90/chatbot.json",
+          "sha256": "d32d2bc79a94d8c3959a826503c8ac0b725849d8d124fde87e09382bd45282c1"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/90/ai_studio.json",
+          "sha256": "c96cd5b43e31c4efe8ecbba74d0a484f6cad0decab797a255727d193c5a9b9a8"
+        }
+      ],
+      "text_sha256": "57162d2ed2e074eb7fd940710e4168b4cdaa3c4fbbff5f35c82b6332d0f6ff7d"
+    },
+    {
+      "persona": "14",
+      "offset": 0,
+      "source_tokens": 155816,
+      "event_count": 228,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/14/chatbot.json",
+          "sha256": "cd52178ac0d5d24fc8cb9c1cf7b3941ea09b4080771dfa73306415b34296714e"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/14/ai_studio.json",
+          "sha256": "f6a191eb4f40909765b1445510ea26954b89ee317744c28eaa1b7c0f56f14d0f"
+        }
+      ],
+      "text_sha256": "edd9057894b121416020caa753e5dd7eb9773a6cee4c25c21a8e86fac30a23dd"
+    },
+    {
+      "persona": "76",
+      "offset": 0,
+      "source_tokens": 106160,
+      "event_count": 153,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/76/chatbot.json",
+          "sha256": "d8bb65159a460a4a94f2c5abdf186598de724b1a57bb439ed24022b9594fbcaf"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/76/ai_studio.json",
+          "sha256": "919cb822fefbe5396a5571b8ee682009299a88ee03190b9f580ac2b444881d11"
+        }
+      ],
+      "text_sha256": "c306641bb99285b90e80a6fbdfecae50110b18f3452c44c1c3e2c0657c97ddc8"
+    },
+    {
+      "persona": "32",
+      "offset": 0,
+      "source_tokens": 161389,
+      "event_count": 220,
+      "source_files": [
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/32/chatbot.json",
+          "sha256": "aaf31b65ead9f6d8589c4e2a5e2caeb1a512cfe06f982bbece6d135a8f41185b"
+        },
+        {
+          "file": "/Users/Admin/Workspace/PersonaMem-further/data/backend/32/ai_studio.json",
+          "sha256": "7728703ed2c74a7744919bc53c1cbaa727a81e5e2dc2aa68f45f607063ace638"
+        }
+      ],
+      "text_sha256": "57e51095a06019b4d6af24aacf88a758f61c25e448a3dac1b444fc83be262ff9"
+    }
+  ],
+  "skipped": []
+}

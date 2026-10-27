@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "length_scope": "context in longbenchv2; question in gsm8k; add_special_tokens=False",
+  "formats": {
+    "longbenchv2": {
+      "rows": 60,
+      "exact_lengths": true,
+      "exact_continuations": true,
+      "max_first_round_shared_prefix_tokens": 3
+    },
+    "gsm8k": {
+      "rows": 60,
+      "exact_lengths": true,
+      "exact_continuations": true,
+      "max_first_round_shared_prefix_tokens": 3
+    }
+  }
+}
