@@ -8,8 +8,5 @@ __pycache__/
 .DS_Store
 .env
 .env.*
-!generated/PersonaMem-A-218/
-!generated/PersonaMem-B-163/
-!generated/PersonaMem-A-238/
-!generated/PersonaMem-A-248/
-!generated/PersonaMem-A-268/
+!generated/personamem/
+!generated/personamem/**
