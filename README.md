@@ -103,3 +103,8 @@ LongBench-v2 字段：https://github.com/THUDM/LongBench#data-format
 GSM8K 字段：https://huggingface.co/datasets/openai/gsm8k
 
 论文中建议称为“基于 PersonaMem-v3 文本的受控多会话缓存工作负载”，并明确长度、追加方式、轮转顺序是自定义实验参数。
+
+## 数据集说明
+
+- 32k 缓存工作负载的完整说明：`generated/PersonaMem-v3-32k.md`
+- 数据目录：`generated/personamem/<条数>/`（163 / 218 / 238 / 248 / 268）

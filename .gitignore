@@ -10,3 +10,4 @@ __pycache__/
 .env.*
 !generated/personamem/
 !generated/personamem/**
+!generated/*.md
