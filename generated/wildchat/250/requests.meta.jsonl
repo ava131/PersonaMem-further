@@ -1,0 +1,2252 @@
+[
+ {
+  "pos": 0,
+  "conversation_hash": "352721123c9192a220e2d01e8d62ac2b",
+  "timestamp": "2024-04-02 15:18:22+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 161
+ },
+ {
+  "pos": 1,
+  "conversation_hash": "79062796454ad3f762e487e6bbd50c6b",
+  "timestamp": "2024-04-02 15:19:31+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Maori",
+  "turn_index": 1,
+  "tokens": 3
+ },
+ {
+  "pos": 2,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 23
+ },
+ {
+  "pos": 3,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 395
+ },
+ {
+  "pos": 4,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 1213
+ },
+ {
+  "pos": 5,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 4,
+  "tokens": 1966
+ },
+ {
+  "pos": 6,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 5,
+  "tokens": 2673
+ },
+ {
+  "pos": 7,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 6,
+  "tokens": 3528
+ },
+ {
+  "pos": 8,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 7,
+  "tokens": 4376
+ },
+ {
+  "pos": 9,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 8,
+  "tokens": 5330
+ },
+ {
+  "pos": 10,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 9,
+  "tokens": 6267
+ },
+ {
+  "pos": 11,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 10,
+  "tokens": 7128
+ },
+ {
+  "pos": 12,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 11,
+  "tokens": 7952
+ },
+ {
+  "pos": 13,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 12,
+  "tokens": 8649
+ },
+ {
+  "pos": 14,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 13,
+  "tokens": 9386
+ },
+ {
+  "pos": 15,
+  "conversation_hash": "0b541982bce37c9af9dee90f0eb0a93d",
+  "timestamp": "2024-04-02 15:19:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 14,
+  "tokens": 10239
+ },
+ {
+  "pos": 16,
+  "conversation_hash": "fa1360984e7a80cfa49b21de97b16715",
+  "timestamp": "2024-04-02 15:19:44+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 164
+ },
+ {
+  "pos": 17,
+  "conversation_hash": "5a8436458451a55bb3f9a99dd96729bf",
+  "timestamp": "2024-04-02 15:19:48+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 22
+ },
+ {
+  "pos": 18,
+  "conversation_hash": "5a8436458451a55bb3f9a99dd96729bf",
+  "timestamp": "2024-04-02 15:19:48+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 241
+ },
+ {
+  "pos": 19,
+  "conversation_hash": "eb7d9d82a1bc88952f743149f61968c0",
+  "timestamp": "2024-04-02 15:20:05+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 18
+ },
+ {
+  "pos": 20,
+  "conversation_hash": "eb7d9d82a1bc88952f743149f61968c0",
+  "timestamp": "2024-04-02 15:20:05+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 786
+ },
+ {
+  "pos": 21,
+  "conversation_hash": "a7c64a5ec5efd4ffdada475c76208226",
+  "timestamp": "2024-04-02 15:20:50+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 167
+ },
+ {
+  "pos": 22,
+  "conversation_hash": "bc7967c6446a0ded24f07f0febccc57c",
+  "timestamp": "2024-04-02 15:21:03+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 738
+ },
+ {
+  "pos": 23,
+  "conversation_hash": "1a97c41f4eb8439f32bf9bb727a0194b",
+  "timestamp": "2024-04-02 15:21:27+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 162
+ },
+ {
+  "pos": 24,
+  "conversation_hash": "73e6ed9e0ad89dc22b577d84e5045e22",
+  "timestamp": "2024-04-02 15:21:30+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 741
+ },
+ {
+  "pos": 25,
+  "conversation_hash": "4d70c27c3df9e134997d1cfc987a14f4",
+  "timestamp": "2024-04-02 15:21:34+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 739
+ },
+ {
+  "pos": 26,
+  "conversation_hash": "c0b82c381d09e4a950f407c188922ff4",
+  "timestamp": "2024-04-02 15:21:59+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "German",
+  "turn_index": 1,
+  "tokens": 39
+ },
+ {
+  "pos": 27,
+  "conversation_hash": "26160d9a2a5a3eefe904ae1d95c9b451",
+  "timestamp": "2024-04-02 15:22:03+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 162
+ },
+ {
+  "pos": 28,
+  "conversation_hash": "6eed832313df954979fb1d144ec7b273",
+  "timestamp": "2024-04-02 15:22:22+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 741
+ },
+ {
+  "pos": 29,
+  "conversation_hash": "134753d56be4a5fa1c201e5161ad9970",
+  "timestamp": "2024-04-02 15:22:41+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "German",
+  "turn_index": 1,
+  "tokens": 39
+ },
+ {
+  "pos": 30,
+  "conversation_hash": "fb90938bdd041a1f65ae91490a4dba30",
+  "timestamp": "2024-04-02 15:22:42+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 749
+ },
+ {
+  "pos": 31,
+  "conversation_hash": "f24f97790c4f7cb164abb025c6509b24",
+  "timestamp": "2024-04-02 15:22:49+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 162
+ },
+ {
+  "pos": 32,
+  "conversation_hash": "6c51a122cfca75e92b0a142e358ae831",
+  "timestamp": "2024-04-02 15:23:47+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 155
+ },
+ {
+  "pos": 33,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 25
+ },
+ {
+  "pos": 34,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 117
+ },
+ {
+  "pos": 35,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 3,
+  "tokens": 223
+ },
+ {
+  "pos": 36,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 4,
+  "tokens": 679
+ },
+ {
+  "pos": 37,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 5,
+  "tokens": 1052
+ },
+ {
+  "pos": 38,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 6,
+  "tokens": 1514
+ },
+ {
+  "pos": 39,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 7,
+  "tokens": 1919
+ },
+ {
+  "pos": 40,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 8,
+  "tokens": 2382
+ },
+ {
+  "pos": 41,
+  "conversation_hash": "ffc7eef5787fabd7f3eebeb5d3104663",
+  "timestamp": "2024-04-02 15:24:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 9,
+  "tokens": 2778
+ },
+ {
+  "pos": 42,
+  "conversation_hash": "be63a58ff4e3eb1b7faa2fa18322b1f5",
+  "timestamp": "2024-04-02 15:24:28+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 773
+ },
+ {
+  "pos": 43,
+  "conversation_hash": "721fac4413d2b787d9336cfcac9ee051",
+  "timestamp": "2024-04-02 15:24:29+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 743
+ },
+ {
+  "pos": 44,
+  "conversation_hash": "7b59b3ed2b1a32f2b741bebb62e07c8f",
+  "timestamp": "2024-04-02 15:24:33+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 733
+ },
+ {
+  "pos": 45,
+  "conversation_hash": "9763c1d7ca162327b0edfdef8e09b705",
+  "timestamp": "2024-04-02 15:25:01+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 743
+ },
+ {
+  "pos": 46,
+  "conversation_hash": "68f3d71dae685ddd81c420cfb5e58cbf",
+  "timestamp": "2024-04-02 15:25:29+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 19
+ },
+ {
+  "pos": 47,
+  "conversation_hash": "68f3d71dae685ddd81c420cfb5e58cbf",
+  "timestamp": "2024-04-02 15:25:29+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 85
+ },
+ {
+  "pos": 48,
+  "conversation_hash": "68f3d71dae685ddd81c420cfb5e58cbf",
+  "timestamp": "2024-04-02 15:25:29+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 112
+ },
+ {
+  "pos": 49,
+  "conversation_hash": "66ea352326b1ad779cbe6724af3450dc",
+  "timestamp": "2024-04-02 15:25:46+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 159
+ },
+ {
+  "pos": 50,
+  "conversation_hash": "102a7fbe04125a2ab9a95084fee49ae5",
+  "timestamp": "2024-04-02 15:26:19+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 781
+ },
+ {
+  "pos": 51,
+  "conversation_hash": "7c70d4f5b92e9f6375768f72853da4bb",
+  "timestamp": "2024-04-02 15:26:21+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 160
+ },
+ {
+  "pos": 52,
+  "conversation_hash": "523c0cc460183b13997edf21bc001f7e",
+  "timestamp": "2024-04-02 15:26:32+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 161
+ },
+ {
+  "pos": 53,
+  "conversation_hash": "358b548e2ce711394d3a6d34a12427ef",
+  "timestamp": "2024-04-02 15:26:34+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "German",
+  "turn_index": 1,
+  "tokens": 27
+ },
+ {
+  "pos": 54,
+  "conversation_hash": "358b548e2ce711394d3a6d34a12427ef",
+  "timestamp": "2024-04-02 15:26:34+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "German",
+  "turn_index": 2,
+  "tokens": 202
+ },
+ {
+  "pos": 55,
+  "conversation_hash": "6144b6bb7d549ff7c822cbbb43f6b774",
+  "timestamp": "2024-04-02 15:27:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 42
+ },
+ {
+  "pos": 56,
+  "conversation_hash": "332c1f43eec43b013e7d7c1edcdaba85",
+  "timestamp": "2024-04-02 15:27:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 161
+ },
+ {
+  "pos": 57,
+  "conversation_hash": "4e839818d3d6d1c6a6cdd19836358bad",
+  "timestamp": "2024-04-02 15:27:21+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 289
+ },
+ {
+  "pos": 58,
+  "conversation_hash": "58ad958b5c05cc8e07ce37b0e3299a6b",
+  "timestamp": "2024-04-02 15:27:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 750
+ },
+ {
+  "pos": 59,
+  "conversation_hash": "ee65e0f7641762cb5fb44655a496c4c7",
+  "timestamp": "2024-04-02 15:28:23+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 148
+ },
+ {
+  "pos": 60,
+  "conversation_hash": "d6a9b5ec7baa0024275770df10b2d3b3",
+  "timestamp": "2024-04-02 15:28:33+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Nolang",
+  "turn_index": 1,
+  "tokens": 3
+ },
+ {
+  "pos": 61,
+  "conversation_hash": "0f1731d048ea42c6598e06796b130680",
+  "timestamp": "2024-04-02 15:28:38+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 19
+ },
+ {
+  "pos": 62,
+  "conversation_hash": "38b0647fd60b367448bcc243009a3999",
+  "timestamp": "2024-04-02 15:28:39+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 752
+ },
+ {
+  "pos": 63,
+  "conversation_hash": "2a439f2410e8cacf854c19313a7b9de9",
+  "timestamp": "2024-04-02 15:29:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 443
+ },
+ {
+  "pos": 64,
+  "conversation_hash": "54bbabfbca8f71cb03c51f9a17dc63b2",
+  "timestamp": "2024-04-02 15:30:38+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 71
+ },
+ {
+  "pos": 65,
+  "conversation_hash": "23e4942a5734bcde8c5544736749cffd",
+  "timestamp": "2024-04-02 15:30:48+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 161
+ },
+ {
+  "pos": 66,
+  "conversation_hash": "9e186c86097eef43448d542ff84d843a",
+  "timestamp": "2024-04-02 15:31:17+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 2314
+ },
+ {
+  "pos": 67,
+  "conversation_hash": "dccd22bdff2caf9088d01fdb8967da5f",
+  "timestamp": "2024-04-02 15:31:29+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 114
+ },
+ {
+  "pos": 68,
+  "conversation_hash": "3da61be7e56c5acfcc3934bc7fb97186",
+  "timestamp": "2024-04-02 15:31:38+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 2314
+ },
+ {
+  "pos": 69,
+  "conversation_hash": "8755e3b40558204ef10b57660391aab1",
+  "timestamp": "2024-04-02 15:31:42+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 2314
+ },
+ {
+  "pos": 70,
+  "conversation_hash": "4e125bfc662183b6c69d18434b07c7a1",
+  "timestamp": "2024-04-02 15:31:45+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 672
+ },
+ {
+  "pos": 71,
+  "conversation_hash": "4e125bfc662183b6c69d18434b07c7a1",
+  "timestamp": "2024-04-02 15:31:45+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 1736
+ },
+ {
+  "pos": 72,
+  "conversation_hash": "3a5a587d244ab700aeee862b2395dd9d",
+  "timestamp": "2024-04-02 15:31:59+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 110
+ },
+ {
+  "pos": 73,
+  "conversation_hash": "57efedc95a715707be8bf32a40ea1460",
+  "timestamp": "2024-04-02 15:32:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Somali",
+  "turn_index": 1,
+  "tokens": 3
+ },
+ {
+  "pos": 74,
+  "conversation_hash": "c45907aa562f5bb6f1fb070feeb2c9bd",
+  "timestamp": "2024-04-02 15:32:08+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 750
+ },
+ {
+  "pos": 75,
+  "conversation_hash": "f9bc46b86afb96956d5f544bd3f7daa5",
+  "timestamp": "2024-04-02 15:32:58+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 161
+ },
+ {
+  "pos": 76,
+  "conversation_hash": "e6a35d083e251b8487434edd54c2f786",
+  "timestamp": "2024-04-02 15:33:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Polish",
+  "turn_index": 1,
+  "tokens": 17
+ },
+ {
+  "pos": 77,
+  "conversation_hash": "d2384b42acce3f4b91256746154954e4",
+  "timestamp": "2024-04-02 15:34:51+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 750
+ },
+ {
+  "pos": 78,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 1,
+  "tokens": 14
+ },
+ {
+  "pos": 79,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 2,
+  "tokens": 871
+ },
+ {
+  "pos": 80,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 3,
+  "tokens": 1781
+ },
+ {
+  "pos": 81,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 4,
+  "tokens": 2634
+ },
+ {
+  "pos": 82,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 5,
+  "tokens": 3393
+ },
+ {
+  "pos": 83,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 6,
+  "tokens": 4219
+ },
+ {
+  "pos": 84,
+  "conversation_hash": "1f2caa29ff642e8caf96e508a0671da1",
+  "timestamp": "2024-04-02 15:35:03+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Portuguese",
+  "turn_index": 7,
+  "tokens": 5088
+ },
+ {
+  "pos": 85,
+  "conversation_hash": "50cc1100d7f1714e47ab2bbff4b9af73",
+  "timestamp": "2024-04-02 15:35:31+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 756
+ },
+ {
+  "pos": 86,
+  "conversation_hash": "9f449bb6974c85ba4aad5bf86785f10d",
+  "timestamp": "2024-04-02 15:35:45+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 162
+ },
+ {
+  "pos": 87,
+  "conversation_hash": "80be4df7c36000f07e4d7e03e27af5fe",
+  "timestamp": "2024-04-02 15:36:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 3
+ },
+ {
+  "pos": 88,
+  "conversation_hash": "80be4df7c36000f07e4d7e03e27af5fe",
+  "timestamp": "2024-04-02 15:36:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 67
+ },
+ {
+  "pos": 89,
+  "conversation_hash": "94b61b0371867290ecf69c0070a15a4f",
+  "timestamp": "2024-04-02 15:37:05+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 94
+ },
+ {
+  "pos": 90,
+  "conversation_hash": "8d6241641d9f8607b046729f21024494",
+  "timestamp": "2024-04-02 15:37:16+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 31
+ },
+ {
+  "pos": 91,
+  "conversation_hash": "9fcfe9416f2e621f0018c95d07925612",
+  "timestamp": "2024-04-02 15:37:21+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 726
+ },
+ {
+  "pos": 92,
+  "conversation_hash": "9fcfe9416f2e621f0018c95d07925612",
+  "timestamp": "2024-04-02 15:37:21+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 1195
+ },
+ {
+  "pos": 93,
+  "conversation_hash": "8674b4594c46eba6faecc5af22ebbd4e",
+  "timestamp": "2024-04-02 15:37:24+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 1781
+ },
+ {
+  "pos": 94,
+  "conversation_hash": "e586cecabd98ad359dc539292da2c926",
+  "timestamp": "2024-04-02 15:37:32+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "French",
+  "turn_index": 1,
+  "tokens": 7596
+ },
+ {
+  "pos": 95,
+  "conversation_hash": "e586cecabd98ad359dc539292da2c926",
+  "timestamp": "2024-04-02 15:37:55+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "French",
+  "turn_index": 1,
+  "tokens": 7596
+ },
+ {
+  "pos": 96,
+  "conversation_hash": "c4e977821160d33171f76bc8ca4445cf",
+  "timestamp": "2024-04-02 15:37:55+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 756
+ },
+ {
+  "pos": 97,
+  "conversation_hash": "e9ac1acc6e5e06ddf4f3914854b909b9",
+  "timestamp": "2024-04-02 15:38:03+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "French",
+  "turn_index": 1,
+  "tokens": 7596
+ },
+ {
+  "pos": 98,
+  "conversation_hash": "887942d622f5161af81c52ec19b94c15",
+  "timestamp": "2024-04-02 15:38:10+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 731
+ },
+ {
+  "pos": 99,
+  "conversation_hash": "3c226fba3d4a5f868bb980268c253f7c",
+  "timestamp": "2024-04-02 15:38:57+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 731
+ },
+ {
+  "pos": 100,
+  "conversation_hash": "18be7bc7edfc9d0750217ce6a4d3c1d2",
+  "timestamp": "2024-04-02 15:39:46+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 1572
+ },
+ {
+  "pos": 101,
+  "conversation_hash": "50b8317393113ca2b7cc8ab6ab6b22cb",
+  "timestamp": "2024-04-02 15:41:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 1572
+ },
+ {
+  "pos": 102,
+  "conversation_hash": "b58e676db5bb2780182c7e6c9a960011",
+  "timestamp": "2024-04-02 15:42:28+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 46
+ },
+ {
+  "pos": 103,
+  "conversation_hash": "697f06cde91c3c9b4ded3755e32d4311",
+  "timestamp": "2024-04-02 15:42:50+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 732
+ },
+ {
+  "pos": 104,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 1,
+  "tokens": 9
+ },
+ {
+  "pos": 105,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 2,
+  "tokens": 203
+ },
+ {
+  "pos": 106,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 3,
+  "tokens": 432
+ },
+ {
+  "pos": 107,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 4,
+  "tokens": 609
+ },
+ {
+  "pos": 108,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 5,
+  "tokens": 742
+ },
+ {
+  "pos": 109,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 6,
+  "tokens": 858
+ },
+ {
+  "pos": 110,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 7,
+  "tokens": 1439
+ },
+ {
+  "pos": 111,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 8,
+  "tokens": 1813
+ },
+ {
+  "pos": 112,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 9,
+  "tokens": 2362
+ },
+ {
+  "pos": 113,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 10,
+  "tokens": 2811
+ },
+ {
+  "pos": 114,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 11,
+  "tokens": 3268
+ },
+ {
+  "pos": 115,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 12,
+  "tokens": 3805
+ },
+ {
+  "pos": 116,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 13,
+  "tokens": 4429
+ },
+ {
+  "pos": 117,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 14,
+  "tokens": 5068
+ },
+ {
+  "pos": 118,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 15,
+  "tokens": 5816
+ },
+ {
+  "pos": 119,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 16,
+  "tokens": 5898
+ },
+ {
+  "pos": 120,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 17,
+  "tokens": 6577
+ },
+ {
+  "pos": 121,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 18,
+  "tokens": 7288
+ },
+ {
+  "pos": 122,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 19,
+  "tokens": 7933
+ },
+ {
+  "pos": 123,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 20,
+  "tokens": 8446
+ },
+ {
+  "pos": 124,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 21,
+  "tokens": 9168
+ },
+ {
+  "pos": 125,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 22,
+  "tokens": 9693
+ },
+ {
+  "pos": 126,
+  "conversation_hash": "5e5f5a22b99c867144a95365c48ce46f",
+  "timestamp": "2024-04-02 15:44:10+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Tagalog",
+  "turn_index": 23,
+  "tokens": 10027
+ },
+ {
+  "pos": 127,
+  "conversation_hash": "2cef09ce85b1dfa6f6b9c9bf551f68da",
+  "timestamp": "2024-04-02 15:44:20+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 160
+ },
+ {
+  "pos": 128,
+  "conversation_hash": "2cef09ce85b1dfa6f6b9c9bf551f68da",
+  "timestamp": "2024-04-02 15:44:20+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 1067
+ },
+ {
+  "pos": 129,
+  "conversation_hash": "ea808eea58f0a4704522fbee6ba36863",
+  "timestamp": "2024-04-02 15:44:45+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 34
+ },
+ {
+  "pos": 130,
+  "conversation_hash": "ea808eea58f0a4704522fbee6ba36863",
+  "timestamp": "2024-04-02 15:44:45+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 449
+ },
+ {
+  "pos": 131,
+  "conversation_hash": "057f892503cf41fdfcc051549ecabcc9",
+  "timestamp": "2024-04-02 15:45:40+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 163
+ },
+ {
+  "pos": 132,
+  "conversation_hash": "fce147b797c0f42c1e362473125b221e",
+  "timestamp": "2024-04-02 15:45:43+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 745
+ },
+ {
+  "pos": 133,
+  "conversation_hash": "33f7975afbc93bca7f0f0243b9546e6b",
+  "timestamp": "2024-04-02 15:46:15+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 15
+ },
+ {
+  "pos": 134,
+  "conversation_hash": "7e1214a3271790e9442f372e6efcc835",
+  "timestamp": "2024-04-02 15:46:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 163
+ },
+ {
+  "pos": 135,
+  "conversation_hash": "c0e04b05447b5a9b1b87c7c899de5326",
+  "timestamp": "2024-04-02 15:46:57+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 742
+ },
+ {
+  "pos": 136,
+  "conversation_hash": "64b968af95ce435224d3143c781dca0f",
+  "timestamp": "2024-04-02 15:47:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 386
+ },
+ {
+  "pos": 137,
+  "conversation_hash": "64b968af95ce435224d3143c781dca0f",
+  "timestamp": "2024-04-02 15:47:04+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 1535
+ },
+ {
+  "pos": 138,
+  "conversation_hash": "99b9c91c6e5d3ec2a22ee1c4f101b38f",
+  "timestamp": "2024-04-02 15:48:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 7
+ },
+ {
+  "pos": 139,
+  "conversation_hash": "99b9c91c6e5d3ec2a22ee1c4f101b38f",
+  "timestamp": "2024-04-02 15:48:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 110
+ },
+ {
+  "pos": 140,
+  "conversation_hash": "99b9c91c6e5d3ec2a22ee1c4f101b38f",
+  "timestamp": "2024-04-02 15:48:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 757
+ },
+ {
+  "pos": 141,
+  "conversation_hash": "99b9c91c6e5d3ec2a22ee1c4f101b38f",
+  "timestamp": "2024-04-02 15:48:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 4,
+  "tokens": 1219
+ },
+ {
+  "pos": 142,
+  "conversation_hash": "6baf8b59a2972b64d3f2bafe543206b2",
+  "timestamp": "2024-04-02 15:48:25+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "French",
+  "turn_index": 1,
+  "tokens": 472
+ },
+ {
+  "pos": 143,
+  "conversation_hash": "5e6c1ad099b9944e10c7510bb342718e",
+  "timestamp": "2024-04-02 15:48:36+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Chinese",
+  "turn_index": 1,
+  "tokens": 4
+ },
+ {
+  "pos": 144,
+  "conversation_hash": "2303ecf71c621d77ed613eb734195ed8",
+  "timestamp": "2024-04-02 15:49:47+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 737
+ },
+ {
+  "pos": 145,
+  "conversation_hash": "415d3847d0c99026775ee3f0fa12e62b",
+  "timestamp": "2024-04-02 15:51:23+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 169
+ },
+ {
+  "pos": 146,
+  "conversation_hash": "5e4e9e045dff5644d7be83eb45c6c0c2",
+  "timestamp": "2024-04-02 15:54:01+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 167
+ },
+ {
+  "pos": 147,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 164
+ },
+ {
+  "pos": 148,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 519
+ },
+ {
+  "pos": 149,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 3,
+  "tokens": 877
+ },
+ {
+  "pos": 150,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 4,
+  "tokens": 1550
+ },
+ {
+  "pos": 151,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 5,
+  "tokens": 2352
+ },
+ {
+  "pos": 152,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 6,
+  "tokens": 3146
+ },
+ {
+  "pos": 153,
+  "conversation_hash": "891d39063792e308bf168a3a895d8e36",
+  "timestamp": "2024-04-02 15:54:16+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 7,
+  "tokens": 3892
+ },
+ {
+  "pos": 154,
+  "conversation_hash": "5df6883632995418d4cdb5f937eade32",
+  "timestamp": "2024-04-02 15:54:52+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 167
+ },
+ {
+  "pos": 155,
+  "conversation_hash": "f6f198f765d0acab8dee25c955b89b90",
+  "timestamp": "2024-04-02 15:55:17+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 784
+ },
+ {
+  "pos": 156,
+  "conversation_hash": "26f2b5ed7bc73157c38e2bdd96ffc331",
+  "timestamp": "2024-04-02 15:56:29+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 12
+ },
+ {
+  "pos": 157,
+  "conversation_hash": "26f2b5ed7bc73157c38e2bdd96ffc331",
+  "timestamp": "2024-04-02 15:56:29+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 552
+ },
+ {
+  "pos": 158,
+  "conversation_hash": "1a1d49a670c404ee6bad3031dcc57d86",
+  "timestamp": "2024-04-02 15:56:41+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 30
+ },
+ {
+  "pos": 159,
+  "conversation_hash": "1a1d49a670c404ee6bad3031dcc57d86",
+  "timestamp": "2024-04-02 15:56:41+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 836
+ },
+ {
+  "pos": 160,
+  "conversation_hash": "1a1d49a670c404ee6bad3031dcc57d86",
+  "timestamp": "2024-04-02 15:56:41+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 3,
+  "tokens": 907
+ },
+ {
+  "pos": 161,
+  "conversation_hash": "1a1d49a670c404ee6bad3031dcc57d86",
+  "timestamp": "2024-04-02 15:56:41+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 4,
+  "tokens": 973
+ },
+ {
+  "pos": 162,
+  "conversation_hash": "1a1d49a670c404ee6bad3031dcc57d86",
+  "timestamp": "2024-04-02 15:56:41+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 5,
+  "tokens": 1049
+ },
+ {
+  "pos": 163,
+  "conversation_hash": "009117d3a6c196474b02326c7a3e96b9",
+  "timestamp": "2024-04-02 15:57:21+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 31
+ },
+ {
+  "pos": 164,
+  "conversation_hash": "908111174f1c019028e6e125fa6d5b2a",
+  "timestamp": "2024-04-02 15:57:44+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 171
+ },
+ {
+  "pos": 165,
+  "conversation_hash": "7c71dc31e792f7cd7858cbd7f6700a9c",
+  "timestamp": "2024-04-02 15:58:38+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 172
+ },
+ {
+  "pos": 166,
+  "conversation_hash": "fd33867073f2249f54a7154e0a069d1c",
+  "timestamp": "2024-04-02 15:58:58+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 23
+ },
+ {
+  "pos": 167,
+  "conversation_hash": "fd33867073f2249f54a7154e0a069d1c",
+  "timestamp": "2024-04-02 15:58:58+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 872
+ },
+ {
+  "pos": 168,
+  "conversation_hash": "dc7dfbd87a5e5a05997903485c124520",
+  "timestamp": "2024-04-02 15:59:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 18
+ },
+ {
+  "pos": 169,
+  "conversation_hash": "dc7dfbd87a5e5a05997903485c124520",
+  "timestamp": "2024-04-02 15:59:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 122
+ },
+ {
+  "pos": 170,
+  "conversation_hash": "dc7dfbd87a5e5a05997903485c124520",
+  "timestamp": "2024-04-02 15:59:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 492
+ },
+ {
+  "pos": 171,
+  "conversation_hash": "dc7dfbd87a5e5a05997903485c124520",
+  "timestamp": "2024-04-02 15:59:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 4,
+  "tokens": 946
+ },
+ {
+  "pos": 172,
+  "conversation_hash": "dc7dfbd87a5e5a05997903485c124520",
+  "timestamp": "2024-04-02 15:59:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 5,
+  "tokens": 1686
+ },
+ {
+  "pos": 173,
+  "conversation_hash": "295437922b59b790bd7d621aa4017823",
+  "timestamp": "2024-04-02 16:00:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 5
+ },
+ {
+  "pos": 174,
+  "conversation_hash": "295437922b59b790bd7d621aa4017823",
+  "timestamp": "2024-04-02 16:00:13+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 445
+ },
+ {
+  "pos": 175,
+  "conversation_hash": "54bbabfbca8f71cb03c51f9a17dc63b2",
+  "timestamp": "2024-04-02 16:00:28+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 71
+ },
+ {
+  "pos": 176,
+  "conversation_hash": "ee7ffc68c4b4a607035e59431990dc9d",
+  "timestamp": "2024-04-02 16:00:37+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 177,
+  "conversation_hash": "0f8bf8f8d47df00cf88760cd56e4d8bb",
+  "timestamp": "2024-04-02 16:00:37+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 178,
+  "conversation_hash": "d1e1a71e274739421f3d965ffa80026a",
+  "timestamp": "2024-04-02 16:00:44+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 391
+ },
+ {
+  "pos": 179,
+  "conversation_hash": "8c8c89ce1b7521c49295d25709138c58",
+  "timestamp": "2024-04-02 16:00:45+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 180,
+  "conversation_hash": "f0df057dba8387b50377c24d747d8d44",
+  "timestamp": "2024-04-02 16:01:17+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 181,
+  "conversation_hash": "3bd7006d2f39d2d96ff8bd68d828010b",
+  "timestamp": "2024-04-02 16:01:28+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 114
+ },
+ {
+  "pos": 182,
+  "conversation_hash": "0f8bf8f8d47df00cf88760cd56e4d8bb",
+  "timestamp": "2024-04-02 16:01:34+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 183,
+  "conversation_hash": "0f8bf8f8d47df00cf88760cd56e4d8bb",
+  "timestamp": "2024-04-02 16:01:43+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 184,
+  "conversation_hash": "8c8c89ce1b7521c49295d25709138c58",
+  "timestamp": "2024-04-02 16:01:53+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 185,
+  "conversation_hash": "8fae4ad0e12bab639fed6c5a9d726554",
+  "timestamp": "2024-04-02 16:02:01+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 112
+ },
+ {
+  "pos": 186,
+  "conversation_hash": "66b65b1c085c88a5d5c56901591835cb",
+  "timestamp": "2024-04-02 16:02:12+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 147
+ },
+ {
+  "pos": 187,
+  "conversation_hash": "ba8c3f76b5280c103c9c2ce9e0d964ce",
+  "timestamp": "2024-04-02 16:02:21+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 30
+ },
+ {
+  "pos": 188,
+  "conversation_hash": "d63fb43319a39619615c83ba975a677a",
+  "timestamp": "2024-04-02 16:02:44+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 23
+ },
+ {
+  "pos": 189,
+  "conversation_hash": "d63fb43319a39619615c83ba975a677a",
+  "timestamp": "2024-04-02 16:02:44+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 1222
+ },
+ {
+  "pos": 190,
+  "conversation_hash": "78bdd4fedea2c78d7401c6bb612828fa",
+  "timestamp": "2024-04-02 16:04:02+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 146
+ },
+ {
+  "pos": 191,
+  "conversation_hash": "e7f19213bfb758682a938a63f16d8646",
+  "timestamp": "2024-04-02 16:04:03+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 14
+ },
+ {
+  "pos": 192,
+  "conversation_hash": "e7f19213bfb758682a938a63f16d8646",
+  "timestamp": "2024-04-02 16:04:03+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 63
+ },
+ {
+  "pos": 193,
+  "conversation_hash": "568ea2370deaa9e12b1fc57e739dfa6d",
+  "timestamp": "2024-04-02 16:04:26+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 458
+ },
+ {
+  "pos": 194,
+  "conversation_hash": "dc491c1b6fa27fbd8b1b98f88a234f8c",
+  "timestamp": "2024-04-02 16:04:56+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 146
+ },
+ {
+  "pos": 195,
+  "conversation_hash": "d78cd9a202e8a9cfef8102dc2141da37",
+  "timestamp": "2024-04-02 16:05:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Latin",
+  "turn_index": 1,
+  "tokens": 12
+ },
+ {
+  "pos": 196,
+  "conversation_hash": "d78cd9a202e8a9cfef8102dc2141da37",
+  "timestamp": "2024-04-02 16:05:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Latin",
+  "turn_index": 2,
+  "tokens": 460
+ },
+ {
+  "pos": 197,
+  "conversation_hash": "d78cd9a202e8a9cfef8102dc2141da37",
+  "timestamp": "2024-04-02 16:05:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Latin",
+  "turn_index": 3,
+  "tokens": 912
+ },
+ {
+  "pos": 198,
+  "conversation_hash": "d78cd9a202e8a9cfef8102dc2141da37",
+  "timestamp": "2024-04-02 16:05:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Latin",
+  "turn_index": 4,
+  "tokens": 1385
+ },
+ {
+  "pos": 199,
+  "conversation_hash": "35e0fb16dc34db59bae2fb92ace06172",
+  "timestamp": "2024-04-02 16:05:18+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 148
+ },
+ {
+  "pos": 200,
+  "conversation_hash": "4030d7158cdce9db5b33a290b76db430",
+  "timestamp": "2024-04-02 16:05:23+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 12
+ },
+ {
+  "pos": 201,
+  "conversation_hash": "4030d7158cdce9db5b33a290b76db430",
+  "timestamp": "2024-04-02 16:05:23+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 233
+ },
+ {
+  "pos": 202,
+  "conversation_hash": "4030d7158cdce9db5b33a290b76db430",
+  "timestamp": "2024-04-02 16:05:23+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 617
+ },
+ {
+  "pos": 203,
+  "conversation_hash": "4030d7158cdce9db5b33a290b76db430",
+  "timestamp": "2024-04-02 16:05:23+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 4,
+  "tokens": 994
+ },
+ {
+  "pos": 204,
+  "conversation_hash": "4030d7158cdce9db5b33a290b76db430",
+  "timestamp": "2024-04-02 16:05:23+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 5,
+  "tokens": 1483
+ },
+ {
+  "pos": 205,
+  "conversation_hash": "4030d7158cdce9db5b33a290b76db430",
+  "timestamp": "2024-04-02 16:05:23+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 6,
+  "tokens": 1964
+ },
+ {
+  "pos": 206,
+  "conversation_hash": "2423d69d0514e05a3dd8cc20125e86c0",
+  "timestamp": "2024-04-02 16:05:29+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 757
+ },
+ {
+  "pos": 207,
+  "conversation_hash": "494d3c9d37802d9f2365d728e8ab4514",
+  "timestamp": "2024-04-02 16:06:05+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 148
+ },
+ {
+  "pos": 208,
+  "conversation_hash": "cccb80a21d3f996304ac67510dc2e709",
+  "timestamp": "2024-04-02 16:06:27+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 149
+ },
+ {
+  "pos": 209,
+  "conversation_hash": "ed987c6c5e0dcbd48187fe31238a7ee6",
+  "timestamp": "2024-04-02 16:06:50+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 458
+ },
+ {
+  "pos": 210,
+  "conversation_hash": "e11b38aae7e6c65f4e255efb8da08a4c",
+  "timestamp": "2024-04-02 16:07:11+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 149
+ },
+ {
+  "pos": 211,
+  "conversation_hash": "c3221e22d3229d4b967374ae61844c35",
+  "timestamp": "2024-04-02 16:08:18+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 510
+ },
+ {
+  "pos": 212,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 273
+ },
+ {
+  "pos": 213,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 2,
+  "tokens": 569
+ },
+ {
+  "pos": 214,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 3,
+  "tokens": 750
+ },
+ {
+  "pos": 215,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 4,
+  "tokens": 1139
+ },
+ {
+  "pos": 216,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 5,
+  "tokens": 1530
+ },
+ {
+  "pos": 217,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 6,
+  "tokens": 1846
+ },
+ {
+  "pos": 218,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 7,
+  "tokens": 2327
+ },
+ {
+  "pos": 219,
+  "conversation_hash": "db4a4e058a604288834f31596a2a7226",
+  "timestamp": "2024-04-02 16:08:26+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Russian",
+  "turn_index": 8,
+  "tokens": 2736
+ },
+ {
+  "pos": 220,
+  "conversation_hash": "958c2fb3055ec99fcc26d8ce407867f3",
+  "timestamp": "2024-04-02 16:08:31+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 22
+ },
+ {
+  "pos": 221,
+  "conversation_hash": "958c2fb3055ec99fcc26d8ce407867f3",
+  "timestamp": "2024-04-02 16:08:31+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 341
+ },
+ {
+  "pos": 222,
+  "conversation_hash": "958c2fb3055ec99fcc26d8ce407867f3",
+  "timestamp": "2024-04-02 16:08:31+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 782
+ },
+ {
+  "pos": 223,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 1,
+  "tokens": 30
+ },
+ {
+  "pos": 224,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 2,
+  "tokens": 69
+ },
+ {
+  "pos": 225,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 3,
+  "tokens": 113
+ },
+ {
+  "pos": 226,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 4,
+  "tokens": 202
+ },
+ {
+  "pos": 227,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 5,
+  "tokens": 297
+ },
+ {
+  "pos": 228,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 6,
+  "tokens": 368
+ },
+ {
+  "pos": 229,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 7,
+  "tokens": 466
+ },
+ {
+  "pos": 230,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 8,
+  "tokens": 551
+ },
+ {
+  "pos": 231,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 9,
+  "tokens": 661
+ },
+ {
+  "pos": 232,
+  "conversation_hash": "379b873d1da8559aa3e047fa4a5e81f7",
+  "timestamp": "2024-04-02 16:08:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Japanese",
+  "turn_index": 10,
+  "tokens": 847
+ },
+ {
+  "pos": 233,
+  "conversation_hash": "016587b8c8bc3e57868220004f85d526",
+  "timestamp": "2024-04-02 16:08:57+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 14
+ },
+ {
+  "pos": 234,
+  "conversation_hash": "016587b8c8bc3e57868220004f85d526",
+  "timestamp": "2024-04-02 16:08:57+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 2,
+  "tokens": 142
+ },
+ {
+  "pos": 235,
+  "conversation_hash": "016587b8c8bc3e57868220004f85d526",
+  "timestamp": "2024-04-02 16:08:57+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 3,
+  "tokens": 193
+ },
+ {
+  "pos": 236,
+  "conversation_hash": "48cb8a981225d273a8aadb60c46d712d",
+  "timestamp": "2024-04-02 16:09:25+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Russian",
+  "turn_index": 1,
+  "tokens": 517
+ },
+ {
+  "pos": 237,
+  "conversation_hash": "c8fc42c188d90accffd44b5d9846a93d",
+  "timestamp": "2024-04-02 16:09:39+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 173
+ },
+ {
+  "pos": 238,
+  "conversation_hash": "d2f18bb64a57dc9bd427b00f29101b77",
+  "timestamp": "2024-04-02 16:09:53+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 766
+ },
+ {
+  "pos": 239,
+  "conversation_hash": "96f256031a7c04060ed8289dbed2b1c6",
+  "timestamp": "2024-04-02 16:10:45+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 170
+ },
+ {
+  "pos": 240,
+  "conversation_hash": "4c1bd042f5a002f2cae9d870225360ae",
+  "timestamp": "2024-04-02 16:10:54+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 170
+ },
+ {
+  "pos": 241,
+  "conversation_hash": "c06a1aa1ccf07a5bf51e9d4215714d46",
+  "timestamp": "2024-04-02 16:11:00+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 8
+ },
+ {
+  "pos": 242,
+  "conversation_hash": "e03be345c432c75a13fc6d5679720f4e",
+  "timestamp": "2024-04-02 16:11:11+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 735
+ },
+ {
+  "pos": 243,
+  "conversation_hash": "1ab4a25dcd7a7cad4cacedfa9dd91a5d",
+  "timestamp": "2024-04-02 16:11:33+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 168
+ },
+ {
+  "pos": 244,
+  "conversation_hash": "052d0a06871a9d3bd92795104672a454",
+  "timestamp": "2024-04-02 16:12:36+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 175
+ },
+ {
+  "pos": 245,
+  "conversation_hash": "85bbcdef72599cb4efc203f7e7ae0bf4",
+  "timestamp": "2024-04-02 16:14:15+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "English",
+  "turn_index": 1,
+  "tokens": 60
+ },
+ {
+  "pos": 246,
+  "conversation_hash": "858aa437ac21970aae7eee113ea47389",
+  "timestamp": "2024-04-02 16:14:30+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Turkish",
+  "turn_index": 1,
+  "tokens": 161
+ },
+ {
+  "pos": 247,
+  "conversation_hash": "7b6c92c7f8cb86985b7b3c25f028fa6b",
+  "timestamp": "2024-04-02 16:14:35+00:00",
+  "model": "gpt-3.5-turbo-0125",
+  "language": "Turkish",
+  "turn_index": 1,
+  "tokens": 208
+ },
+ {
+  "pos": 248,
+  "conversation_hash": "2d452a0c0e0410b5a9a7616df0c5552f",
+  "timestamp": "2024-04-02 16:14:39+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Italian",
+  "turn_index": 1,
+  "tokens": 141
+ },
+ {
+  "pos": 249,
+  "conversation_hash": "2d452a0c0e0410b5a9a7616df0c5552f",
+  "timestamp": "2024-04-02 16:14:39+00:00",
+  "model": "gpt-4-0125-preview",
+  "language": "Italian",
+  "turn_index": 2,
+  "tokens": 1012
+ }
+]
